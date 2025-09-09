@@ -24,3 +24,4 @@ urlpatterns = [
     path('api/products/',include('products.urls')),
     path('api/orders/',include('orders.urls')),
 ]
+if urlpatterhn is not admin/ or api/ or api/accounts/ or api/products or api/orders
